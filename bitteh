@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Заголовок моей страницы</title>
+    <link  rel="stylesheet" href="proba2.css" style.css>
+
+  <body>
+   
+
+    <header>
+      <div class="logo-button">
+      <button class="logo-button"><img src="KassiopeiaSign1.jpg" alt="Лого">
+      </button>
+      </div>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="proba.html">Домашняя страница</a></li>
+        <li><a href="About_Us_Among_Us.html"> О проекте </a></li>
+       <form>
+         <input type="search" name="q" placeholder="Что вы ищите?">
+         <input type="submit" value="Вперед!">
+       </form>
+     </nav>
+    <div class="container">
+      <div class="homepage-top-grid">
+        <div class="homepage-top-grid_menu">
+          <div class="menu-desktop">
+            <div class="menu-desktop__root">
+              <div class="menu-desktop__root-info">
+                <i class="fa-solid fa-gamepad"></i>
+                <a class="ui-link menu-desktop__root-title" href="#">Бытовая техника</a>
+              </div>
+            <div class="menu-desktop__root">
+              <div class="menu-desktop__root-info">
+                <a class="menu-desktop__root-title" href="#">Смартфоны и фототехника</a>
+              </div>
+            </div>
+            <div class="menu-desktop__root">
+              <div class="menu-desktop__root-info">
+                <a class="menu-desktop__root-title" href="#">ТВ, консоли и аудио</a>
+              </div>
+            </div>
+            <div class="menu-desktop__root">
+              <div class="menu-desktop__root-info">
+                <a class="menu-desktop__root-title" href="#">ПК, ноутбуки, переферия</a>
+              </div>
+            </div>
+            <div class="menu-desktop__root">
+              <div class="menu-desktop__root-info">
+                <a class="menu-desktop__root-title" href="#">Комплектующие для ПК</a>
+              </div>
+            </div>
+            <div class="menu-desktop__root">
+              <div class="menu-desktop__root-info">
+                <a class="menu-desktop__root-title" href="#">Офисная техника</a>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+
+   
+    <main>
+
+    
+      <article>
+        <h2>Заголовок статьи</h2>
+
+        <p>1</p>
+        <h3>Подраздел</h3>
+
+        <p>2</p>
+
+        <p>3</p>
+
+        <h3>Ещё один подраздел</h3>
+
+        <p>4</p>
+
+        <p>5</p>
+      </article>
+
+    </main>
+
+
+
+    <footer>
+      <p>©Авторские права никому не принадлежат, 2050. Все права защищены.</p>
+    </footer>
+
+  </body>
+</html>
