@@ -151,13 +151,15 @@ footer {
 }
 
 img {
-  width: 300px;
+  width: 100%;
   height: 100px;
   text-align: center;
   vertical-align: middle;
+  border-radius: 25%;
 }
 .logo-button {
-
+text-align: -webkit-center;
+border-radius: 25%;
 }
 .fa-gamepad {
   box-sizing: border-box;
