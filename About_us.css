@@ -53,6 +53,7 @@ mahtml, body {
     background-color: #4107e22f;
     display: flex;
     margin-bottom: 10px;
+    border-radius: 10px;
   }
   
   nav ul {
