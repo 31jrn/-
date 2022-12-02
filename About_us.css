@@ -108,6 +108,7 @@ mahtml, body {
   
   article {
     flex: 4;
+    border-radius: 10px;
   }
   
   aside {
@@ -122,6 +123,7 @@ mahtml, body {
   
   footer {
     margin-top: 10px;
+    border-radius: 10px;
   }
   img {
     width: 100%;
@@ -137,4 +139,7 @@ mahtml, body {
   }
   button {
     border: 0;
+  }
+  .container {
+    border-radius: 10px;
   }

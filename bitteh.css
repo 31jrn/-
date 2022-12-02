@@ -122,6 +122,7 @@ main {
 
 article {
   flex: 4;
+  border-radius: 10px;
 }
 
 aside {
@@ -136,6 +137,7 @@ aside li {
 
 footer {
   margin-top: 10px;
+  border-radius: 10px;
 }
 .container {
   max-width: 1180 px;
@@ -175,4 +177,7 @@ border-radius: 10px;
 }
 button {
   border: 0;
+}
+.container {
+  border-radius: 10px;
 }
