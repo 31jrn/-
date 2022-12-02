@@ -58,7 +58,7 @@ nav, article, aside, footer {
 
 nav {
   height: 50px;
-  background-color: #d3e098;
+  background-color: #4107e22f;
   display: flex;
   margin-bottom: 10px;
 }
@@ -172,4 +172,7 @@ border-radius: 10px;
     text-align: center;
     vertical-align: middle;
     width: 25px;
+}
+button {
+  border: 0;
 }

@@ -50,7 +50,7 @@ mahtml, body {
   
   nav {
     height: 50px;
-    background-color: #d3e098;
+    background-color: #4107e22f;
     display: flex;
     margin-bottom: 10px;
   }
@@ -134,4 +134,7 @@ mahtml, body {
   .logo-button {
   text-align: -webkit-center;
   border-radius: 25%;
+  }
+  button {
+    border: 0;
   }
