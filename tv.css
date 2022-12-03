@@ -10,13 +10,8 @@ html {
 
 body {
   background-color: #f6f6f6;
-  color: #333;
-  font-family: PT Sans,Helvetica,Arial,sans-serif;
-  font-size: 16px;
-  line-height: 1.42857;
-  min-height: 100%;
-  overflow-x: hidden;
-  width: 100%;
+  margin:0 auto;
+  width: 70%;
 }
 
 h1, h2, h3 {
@@ -45,22 +40,23 @@ h3 {
   font-size: 2.2rem;
 }
 
-p, li {
-  font-size: 1.6rem;
+p, .menu-desktop__root-info {
+  font-size: 2rem;
   line-height: 1.5;
 }
 
 
-nav, article, aside, footer {
+nav, article, .container, footer {
   background-color: white;
   padding: 1%;
 }
 
 nav {
   height: 50px;
-  background-color: #d3e098;
+  background-color: #4107e22f;
   display: flex;
   margin-bottom: 10px;
+  border-radius: 10px;
 }
 
 nav ul {
@@ -111,43 +107,29 @@ input[type="submit"] {
 
 
 main {
-  display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 0 auto;
-    width: 100%;
-    min-height: 680px;
-    box-sizing: border-box;
+  display: flex; 
+  border-radius: 30px;
 }
 
 article {
   flex: 4;
+  border-radius: 10px;
 }
 
-aside {
-  flex: 1;
-  margin-left: 10px;
-  background-color: #d3e098;
-}
 
-aside li {
+.menu-desktop__root-info {
   padding-bottom: 10px;
 }
 
 footer {
   margin-top: 10px;
+  border-radius: 10px;
 }
 .container {
-  max-width: 1180 px;
-  padding: 0 10px;
-    padding-top: 0px;
-    padding-right: 10px;
-    padding-bottom: 0px;
-    padding-left: 10px;
-    box-sizing: content-box;
-    margin-left: auto;
-    margin-right: auto;
-    min-height: 75%;
+  flex: 1;
+  margin-left: 10px;
+  
+  
 }
 
 img {
@@ -172,4 +154,44 @@ border-radius: 10px;
     text-align: center;
     vertical-align: middle;
     width: 25px;
+}
+.wash_machine {
+  width: 24px;
+  height: 20px;
+  margin-right: 20px;
+  text-align: center;
+  position: center;
+}
+.catalog-menu__root {
+  height: 36px;
+  margin: 0 -1px;
+  font-size: 16px;
+  color: #000;
+  padding: 0 0 0 12px;
+  width: 258px;
+  border-left: 2px solid transparent;
+}
+.catalog-menu__root-icon {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  height: 20px;
+  margin-right: 20px;
+  text-align: center;
+  vertical-align: middle;
+  width: 24px;
+}
+button {
+  border: 0;
+}
+.container {
+  border-radius: 10px;
+}
+.tv{
+  width: 100px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
