@@ -11,7 +11,7 @@ html {
 body {
   background-color: #f6f6f6;
   margin:0 auto;
-  width: 70%;
+  width: 80%;
 }
 
 h1, h2, h3 {
@@ -188,4 +188,9 @@ button {
 }
 .container {
   border-radius: 10px;
+}
+.menu-desktop__root-title {
+  line-height: normal;
+  display: inline-block;
+  vertical-align: text-top;
 }
