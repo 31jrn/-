@@ -188,3 +188,9 @@ button {
 .container {
   border-radius: 10px;
 }
+.pk{
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}

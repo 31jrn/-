@@ -188,3 +188,9 @@ button {
 .container {
   border-radius: 10px;
 }
+.ofis{
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
