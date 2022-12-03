@@ -21,6 +21,7 @@ mahtml, body {
   p, input, li {
     font-family: 'Open Sans Condensed', sans-serif;
     color: #2a2a2a;
+    border-radius: 10px;
   }
   
   h1 {
