@@ -11,7 +11,7 @@ html {
 body {
   background-color: #f6f6f6;
   margin:0 auto;
-  width: 80%;
+  width: 70%;
 }
 
 h1, h2, h3 {
@@ -22,7 +22,6 @@ h1, h2, h3 {
 p, input, li {
   font-family: 'Open Sans Condensed', sans-serif;
   color: #2a2a2a;
-  border-radius: 10px;
 }
 
 h1 {
@@ -54,10 +53,9 @@ nav, article, .container, footer {
 
 nav {
   height: 50px;
-  background-color: #4107e22f;
+  background-color: #d3e098;
   display: flex;
   margin-bottom: 10px;
-  border-radius: 10px;
 }
 
 nav ul {
@@ -109,12 +107,10 @@ input[type="submit"] {
 
 main {
   display: flex; 
-  border-radius: 30px;
 }
 
 article {
   flex: 4;
-  border-radius: 10px;
 }
 
 
@@ -124,13 +120,10 @@ article {
 
 footer {
   margin-top: 10px;
-  border-radius: 10px;
 }
 .container {
   flex: 1;
   margin-left: 10px;
-  
-  
 }
 
 img {
@@ -183,14 +176,5 @@ border-radius: 10px;
   vertical-align: middle;
   width: 24px;
 }
-button {
-  border: 0;
-}
-.container {
-  border-radius: 10px;
-}
-.menu-desktop__root-title {
-  line-height: normal;
-  display: inline-block;
-  vertical-align: text-top;
-}
+
+
