@@ -101,7 +101,7 @@ input[type="search"] {
 input[type="submit"] {
   flex: 1;
   margin-left: 1rem;
-  background: #333;
+  background: rgba(118, 40, 221, 0.664);
   border: 0;
   color: white;
 }
@@ -146,18 +146,7 @@ border-radius: 10px;
 margin-top: 5px;
 margin-bottom: 5px;
 }
-.fa-gamepad {
-  box-sizing: border-box;
-  background-position: 100%;
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
-    height: 25px;
-    margin-right: 24px;
-    text-align: center;
-    vertical-align: middle;
-    width: 25px;
-}
+
 .wash_machine {
   width: 24px;
   height: 20px;
