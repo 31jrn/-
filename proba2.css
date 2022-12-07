@@ -192,41 +192,26 @@ button {
   display: flex;
   text-align: center
 }
-.icon1 p{
+.icon2,.icon3,.icon4,.icon5{
   margin-left: 60px;
+  width: 30%;
 }
-.icon2{
-  margin-left: 60px;
-}
-.icon3{
-  margin-left: 60px;
-}
-.icon4{
-  margin-left: 60px;
-}
-.icon5{
-  margin-left: 60px;
+.icon1{
+  width: 30%;
 }
 .iconki2{
-  width: 100%;
   height: 40%;
+  width: 100%;
   margin-top: 20px;
   border: #2a2a2a;
   display: flex;
   text-align: center
 }
+.mat1,.mat2,.mat3,.mat4{
+  margin-left: 30px;
+  width: 30%;
+}
 .icon6{
-  margin-left: 60px;
-}
-.mat1{
-  margin-left: 100px;
-}
-.mat2{
-  margin-left: 100px;
-}
-.mat3{
-  margin-left: 100px;
-}
-.mat4{
-  margin-left: 100px;
+  width: 30%;
+  
 }
