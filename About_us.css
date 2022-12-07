@@ -192,3 +192,27 @@ button {
     flex: 4;
     border-radius: 10px;
   }
+  .e-katalog{ 
+    width: 95px;
+    height: 50px;
+    margin-right: 20px;
+    text-align: right;
+    position: right;
+  }
+  .konkurenty{
+    font-size: 2.2em;
+  }
+  .comp_uni{   
+    width: 95px;
+    height: 40px;
+    margin-right: 20px;
+    text-align: right;
+    position: right;
+   }
+   .dns_shop{
+    width: 95px;
+    height: 40px;
+    margin-right: 20px;
+    text-align: right;
+    position: right;
+   }
