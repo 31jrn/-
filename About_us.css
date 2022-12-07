@@ -201,7 +201,7 @@ button {
   }
   .konkurenty{
     font-size: 2.2em;
-    line-height: 1.8;
+    margin-top: 15px;
   }
   .comp_uni{   
     width: 95px;
@@ -251,4 +251,7 @@ button {
 .podpyis{
   margin-left: 10px;
   color: #6b1aeec4;
+}
+.advantages_desc{
+  margin-top: 15px;
 }
